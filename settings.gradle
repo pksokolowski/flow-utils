@@ -1,0 +1,2 @@
+include ':flow-utils'
+rootProject.name = "Flow-utils-project"
